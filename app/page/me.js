@@ -1,5 +1,5 @@
 /**
- * 
+ *
  * @authors Your Name (you@example.org)
  * @date    2015-10-18 14:41:19
  * @version $Id$
@@ -95,11 +95,11 @@ var Me = React.createClass({
           </Image>
          </View>
 
-        <MenuItem 
+        <MenuItem
           title='地址管理'
           icon="image!icon_bottomtag_me_n"
           onClick={function(){thiz._addNavigator(AddresManager,"地址管理")}}/>
-        
+
         <MenuItem
           title='我的订单'
           margin2Top='1'
@@ -118,8 +118,8 @@ var Me = React.createClass({
           icon="image!icon_bottomtag_me_n"
           onClick={function(){thiz._addNavigator(ShellManager,"我的贝壳")}}/>
 
-        <TouchableHighlight 
-          style={{flex:1,justifyContent:'center',alignItems:'center',backgroundColor:'#ffffff',height:45,marginTop:30}} 
+        <TouchableHighlight
+          style={{flex:1,justifyContent:'center',alignItems:'center',backgroundColor:'#ffffff',height:45,marginTop:30}}
           underlayColor="#dad9d7" onPress={()=>this._call()}>
          <Text >拨打客服400-700-8780</Text>
         </TouchableHighlight>

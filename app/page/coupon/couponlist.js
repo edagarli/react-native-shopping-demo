@@ -1,5 +1,5 @@
 /**
- * 
+ *
  * @authors Your Name (you@example.org)
  * @date    2015-10-18 14:38:47
  * @version $Id$

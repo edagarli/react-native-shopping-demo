@@ -158,7 +158,7 @@ var login = React.createClass({
         </View>
       </Image>);
     },
-    
+
   render: function() {
       if(this.state.logined){
         return this.renderLogined();

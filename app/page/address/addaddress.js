@@ -1,5 +1,5 @@
 /**
- * 
+ *
  * @authors Your Name (you@example.org)
  * @date    2015-10-19 17:15:39
  * @version $Id$
@@ -27,7 +27,7 @@ var AddAddress = React.createClass({
       <Text >
       	添加地址
       </Text>
-      
+
     );
   },
 });

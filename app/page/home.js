@@ -202,7 +202,7 @@ var styles = StyleSheet.create({
     flexDirection:'row',
     marginBottom:2,
   },
-  
+
 });
 
 module.exports = home;
