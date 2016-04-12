@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React-Native入门指南
 
 ## shopping-react-native
@@ -50,3 +51,6 @@
 
  
 
+=======
+# react-native-shopping-demo
+>>>>>>> 15fcf48d9c5af9fcb24e11bf7df51bad48a10561
